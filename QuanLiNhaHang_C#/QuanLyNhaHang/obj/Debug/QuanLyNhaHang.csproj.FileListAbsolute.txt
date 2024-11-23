@@ -1,0 +1,16 @@
+D:\Tài liệu học\OOP\KT cuối kì\21110821_Le_Duc_Duy\QuanLiNhaHang_C#\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.AssemblyReference.cache
+D:\Tài liệu học\OOP\KT cuối kì\21110821_Le_Duc_Duy\QuanLiNhaHang_C#\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.SuggestedBindingRedirects.cache
+D:\Tài liệu học\OOP\KT cuối kì\21110821_Le_Duc_Duy\QuanLiNhaHang_C#\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+D:\Tài liệu học\OOP\KT cuối kì\21110821_Le_Duc_Duy\QuanLiNhaHang_C#\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+D:\Tài liệu học\OOP\KT cuối kì\21110821_Le_Duc_Duy\QuanLiNhaHang_C#\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+D:\Tài liệu học\OOP\KT cuối kì\21110821_Le_Duc_Duy\QuanLiNhaHang_C#\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+D:\Tài liệu học\OOP\KT cuối kì\21110821_Le_Duc_Duy\QuanLiNhaHang_C#\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+D:\Tài liệu học\OOP\KT cuối kì\21110821_Le_Duc_Duy\QuanLiNhaHang_C#\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+D:\Tài liệu học\Học Kì 1 năm 2\OOP\KT cuối kì\21110821_Le_Duc_Duy\QuanLiNhaHang_C#\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+D:\Tài liệu học\Học Kì 1 năm 2\OOP\KT cuối kì\21110821_Le_Duc_Duy\QuanLiNhaHang_C#\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+D:\Tài liệu học\Học Kì 1 năm 2\OOP\KT cuối kì\21110821_Le_Duc_Duy\QuanLiNhaHang_C#\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+D:\Tài liệu học\Học Kì 1 năm 2\OOP\KT cuối kì\21110821_Le_Duc_Duy\QuanLiNhaHang_C#\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.AssemblyReference.cache
+D:\Tài liệu học\Học Kì 1 năm 2\OOP\KT cuối kì\21110821_Le_Duc_Duy\QuanLiNhaHang_C#\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.SuggestedBindingRedirects.cache
+D:\Tài liệu học\Học Kì 1 năm 2\OOP\KT cuối kì\21110821_Le_Duc_Duy\QuanLiNhaHang_C#\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+D:\Tài liệu học\Học Kì 1 năm 2\OOP\KT cuối kì\21110821_Le_Duc_Duy\QuanLiNhaHang_C#\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+D:\Tài liệu học\Học Kì 1 năm 2\OOP\KT cuối kì\21110821_Le_Duc_Duy\QuanLiNhaHang_C#\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
